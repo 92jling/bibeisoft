@@ -51,7 +51,7 @@ hr, .hr{margin:20px 0;border:0;width:100%;height:1px;overflow:hidden;background-
 
 @media only screen and (max-width: 959px) {
 .page {max-width:100%;padding:20px;font-size:16px;line-height:26px;}
-h1 {font-size:26px;line-height:1.8;font-weight:bold;margin-top:0}
+h1 {font-size:26px;line-height:1.8;font-weight:900;margin-top:0}
 .browser-list {height:auto}
 .browser {margin:0 20px 20px 0}
 code {word-break: break-word;}
